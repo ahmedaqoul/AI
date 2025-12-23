@@ -1,4 +1,4 @@
-# Ahmed AKUL, Ahmed HAMIDI ve ELMUNZİR ELSEYER *Otonom Araç Simülasyonu* yapay zeka projesi
+# Ahmed AKUL, Ahmed HAMIDI ve ELMUNZİR ELSEYER *Otonom Araç Simülasyonu: Engel Algılama ve Kaçınma Uygulaması* yapay zeka projesi
 # AI
 import pygame
 
