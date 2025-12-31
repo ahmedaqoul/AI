@@ -1,4 +1,4 @@
-# Ahmed AKUL ve Ahmed HAMIDI*Otonom Araç Simülasyonu: Engel Algılama ve Kaçınma Uygulaması* yapay zeka projesi
+# Ahmed AKUL ve Ahmed HAMIDI *Otonom Araç Simülasyonu: Engel Algılama ve Kaçınma Uygulaması* yapay zeka projesi
 # AI
 import pygame
 
